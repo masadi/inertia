@@ -16,6 +16,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
+    'fonnte_token' => env('APP_TOKEN', NULL),
 
     /*
     |--------------------------------------------------------------------------
